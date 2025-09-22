@@ -1,8 +1,6 @@
 # ShadeMap Walking Route Optimizer
 
-![ShadeMap Demo](https://via.placeholder.com/800x400/1a1a1a/ffffff?text=ShadeMap+Walking+Route+Optimizer)
-
-A sophisticated React-based web application that leverages advanced computational geometry and real-time shadow analysis to find the most shaded walking routes between two points. Built with cutting-edge algorithms for solar position calculation, multi-objective optimization, and dynamic shadow rendering.
+A React-based web application that uses advanced computational geometry and real-time shadow analysis to find the most shaded walking routes between two points. Built with highly researched algorithms for solar position calculation, multi-objective optimization, and dynamic shadow rendering.
 
 ## 🚀 Advanced Features
 
@@ -35,28 +33,10 @@ A sophisticated React-based web application that leverages advanced computationa
    - Frontend: http://localhost:5173
    - Backend: http://localhost:5174
 
-### Production Deployment
-
-1. **Build and deploy:**
-   ```bash
-   ./deploy.sh
-   cd deployment
-   npm install
-   npm start
-   ```
-
-2. **Environment Variables (optional):**
-   ```bash
-   export SHADEMAP_API_KEY=your_shademap_key
-   export ORS_API_KEY=your_ors_key
-   export PORT=3000
-   ```
-
-## 🧠 Advanced Algorithms & Architecture
 
 ### Multi-Objective Optimization Engine
 
-Our route optimization employs sophisticated algorithms to solve the complex trade-off between shade coverage and travel efficiency:
+The route optimization uses many algorithms to solve the complex trade-off between shade coverage and travel efficiency:
 
 #### **Genetic Algorithm Implementation**
 ```javascript
