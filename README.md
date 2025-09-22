@@ -1,4 +1,6 @@
 # ShadeMap Walking Route Optimizer
+<img width="2509" height="1337" alt="image" src="https://github.com/user-attachments/assets/7a796fc5-4116-49ed-8bbe-86339e9ef22b" />
+
 
 A React-based web application that uses advanced computational geometry and real-time shadow analysis to find the most shaded walking routes between two points. Built with highly researched algorithms for solar position calculation, multi-objective optimization, and dynamic shadow rendering.
 
